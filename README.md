@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @nithinmohanlive
 - 👀 I’m interested in DevOps and Automation
 - 🌱 I’m currently learning DevOps Tools
-- 💞️ I’m looking to collaborate on ...
 - 📫 You can reach me at nithinmohanlive@gmail.com
 
 <!---
